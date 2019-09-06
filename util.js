@@ -1,3 +1,3 @@
 function sayHi () {
-  console.log("hi, i'm from libray! 1");
+  console.log("hi, i'm from libray! 2");
 }
